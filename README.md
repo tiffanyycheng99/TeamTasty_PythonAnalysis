@@ -1,4 +1,4 @@
-# Project1 TeamTasty - Team Tasty's Fast Food Restaurants Analysis
+# Project1 TeamTasty - Fast Food Restaurants Analysis
 A look into the Fast Food franchises of America and an analysis to determine the best location for next new Pizza Hut!
 
 ![image](Resources/pizzahut.jpg)
